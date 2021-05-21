@@ -1,0 +1,6 @@
+plugin.list_unsubscribe_header {
+  settings {
+    email = {$plugin.list_unsubscribe_header.settings.email}
+    url = {$plugin.list_unsubscribe_header.settings.url}
+  }
+}

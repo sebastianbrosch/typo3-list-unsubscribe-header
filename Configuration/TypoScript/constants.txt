@@ -1,0 +1,9 @@
+plugin.list_unsubscribe_header {
+  # customsubcategory=settings=Settings
+  settings {
+    # cat=list_unsubscribe_header/settings; type=string; label=E-Mail to unsubscribe from newsletter.
+    email = 
+    # cat=list_unsubscribe_header/settings; type=string; label=URL to unsubscribe from newsletter.
+    url = 
+  }
+}
